@@ -1,0 +1,20 @@
+The image you provided is a use case diagram, which visually represents the interactions between a user and various systems for processing video content. Here's a detailed explanation of its elements:
+
+1. **Actors**:
+   - **User**: The primary actor who initiates the actions.
+   - **Google Cloud API**: An external system used for speech-to-text transcription.
+   - **YouTube API**: An external system used for fetching subtitles.
+
+2. **Use Cases**:
+   - **Extract Video Content**: The user extracts content from a video.
+   - **Download Summarized Notes**: The user downloads notes that have been summarized.
+   - **Summarize Content using NLP**: The user summarizes the content using Natural Language Processing (NLP) techniques.
+   - **Transcribe Audio using Google Cloud Speech-to-Text**: The user transcribes audio content using the Google Cloud Speech-to-Text API.
+   - **Fetch Subtitles using YouTube Transcript API**: The user fetches subtitles using the YouTube Transcript API.
+
+3. **Relationships**:
+   - The user is connected to all the use cases, indicating that the user can perform all these actions.
+   - The use case "Transcribe Audio using Google Cloud Speech-to-Text" is connected to the Google Cloud API, indicating that this action involves interaction with the Google Cloud API.
+   - The use case "Fetch Subtitles using YouTube Transcript API" is connected to the YouTube API, indicating that this action involves interaction with the YouTube API.
+
+This diagram visually represents the interactions and dependencies between a user and various APIs for processing and summarizing video content. It helps in understanding the workflow and the external systems involved in achieving the desired tasks.

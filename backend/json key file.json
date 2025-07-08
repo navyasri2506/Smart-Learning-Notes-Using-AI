@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "smart-learning-notes",
+  "private_key_id": "2dc06945fc4af1cec881ee4201d1aa3171a5be80",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+iMD3acwziUu6\n+ARI+Y7tUTSnc246D9y3Dvda5Jq4Lqqe3Ru8C/gl9KHFU4AvX48xebnOcF0K1DcR\nKLXJHRDAhtsV/ZgoLbhupaMIhWzlfdwTpQvnaGa0PFXX67VMKA2Dgs4jTHRHfmv4\nXU6MQ4sJPtv60zVLyZIPs67ahne3Fm+m+EXejIvnXEZG57Cz9OWT0TYLEc07TKlN\nq56anL7XGRSy3SZ0peOw6/FRW3morRB+3kCsceFFy3/Zo1X9fYH0eKaXYIn0CSA9\n4eM2BVq/CIgD/lOs32FJ1BRfctCusKDpKBzV6UwPYL+NcWFHNTFKpx9MNX6bEkEZ\nyxc/3ITdAgMBAAECggEAEEJKOTKxhrpSGI/eib2mCTFTTXDHuLOu0X449Gwqmcn9\nrFXQ7pCU6eRAw75241QDu6SYCvpCrlBirJetP4635b38RxmfWNph8Ss4SNtd6g19\n8L02UVZy4TF+39CQ5YFLeev5HEEDcTBkFUsdD1IaNL1E91f7pc57JNTf+GzeHWTq\nX2cuSzxwUS9lcT8Bi5O3aIj60YK5uElBGHO0DWY27i67ltvnWd1a+pwrZxpWPrxW\nTZaBpY0Q/kHk+6X5TEsl/na1UnZaBn00WzD9ghZ4p/BxNluqIaAHE3z7NdhzLA3p\nAA+sDyiuGmZKtEewjO1JpKtOEIdplKZB9Ts/jF29kQKBgQDzEeejHJTAytl9+9ml\ndaXcTX8J3SBLn46dWt6tMdQwrJRosqY+KlKpW3l3QC7BoBuHZYdtn+XNATPUlJ6/\nPyKtJp3ZKLMTsSVHEsDHYIKpqx/4V36zu8Tuw8c0WqrzgPK1WskBg1DF0vYxmOHL\nBTXT+xztGdo/ZwSjFdCnRAUEqQKBgQDIq2yFcTWK0Fp4nT9O2aLf+T1xZIGBeHNY\nqK0bGy57hGn+wkfJ+X+0vUJpcCXnwE7WtwWbltkvplnz2Ees6NwiV8RtkggBs3bu\nsBGU6Co9+qig8LuRgl1oaBCNCROHvQQF4N/Gwo1MHsgGBXrV4Wsd9ZH9eIgOYX4s\nrPjp/kzrFQKBgQCUhsZSJy7GN616jCBMOH1nBnuwHUyUqSTOBi63ChGsxGfTKgbn\nSZlFHz4zniZz7k+kBmgglmonQKrZJQ9zsTKRN12QyovSZpZuvYjKy7BL2OMqLtyf\nGweVFlBtL1HyhULJinX01LbQir4hRFgEZGSl6XWddASmZV6yAKyE6M1gMQKBgQC1\ntc0qNO6ICc2y5KmcLCV57Ub/NES1Sa4hfXRrVDzOKoSU5bZ+JYjH0I2fzqb0aca6\nVbclQf7fUCKqVZHp+F7GVnWPxqmraKhs0VDKZ0VBJIaoXfVreQI+deVu4OYnhzhq\nXkwkvq2WXVVBZprprBsEYQfW39tMMmo/6E3qDZX3VQKBgHsIctFjbmswsK3SAF8l\npqurSb3ZjYPvcjSxo5zk4A/8NX79yT2ChnZ7bLO846FBzmb8dfTN+Mogd6BcAn5z\n1KXnlY2nezbrHlQ7ZtGTCQ2kf5wniX9G0G/pglldTgm1Yy9BeiVpnrlspTzDCjM8\n8Yo/aBNHC5ecmVYtgR2K/7nj\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech-to-text-service@smart-learning-notes.iam.gserviceaccount.com",
+  "client_id": "109057329279029959424",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-to-text-service%40smart-learning-notes.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
