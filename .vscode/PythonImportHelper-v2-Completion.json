@@ -1,0 +1,357 @@
+[
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "send_from_directory",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "nltk",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "nltk",
+        "description": "nltk",
+        "detail": "nltk",
+        "documentation": {}
+    },
+    {
+        "label": "psycopg2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "psycopg2",
+        "description": "psycopg2",
+        "detail": "psycopg2",
+        "documentation": {}
+    },
+    {
+        "label": "yt_dlp",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yt_dlp",
+        "description": "yt_dlp",
+        "detail": "yt_dlp",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "YouTubeTranscriptApi",
+        "importPath": "youtube_transcript_api",
+        "description": "youtube_transcript_api",
+        "isExtraImport": true,
+        "detail": "youtube_transcript_api",
+        "documentation": {}
+    },
+    {
+        "label": "TranscriptsDisabled",
+        "importPath": "youtube_transcript_api._errors",
+        "description": "youtube_transcript_api._errors",
+        "isExtraImport": true,
+        "detail": "youtube_transcript_api._errors",
+        "documentation": {}
+    },
+    {
+        "label": "VideoUnavailable",
+        "importPath": "youtube_transcript_api._errors",
+        "description": "youtube_transcript_api._errors",
+        "isExtraImport": true,
+        "detail": "youtube_transcript_api._errors",
+        "documentation": {}
+    },
+    {
+        "label": "NoTranscriptFound",
+        "importPath": "youtube_transcript_api._errors",
+        "description": "youtube_transcript_api._errors",
+        "isExtraImport": true,
+        "detail": "youtube_transcript_api._errors",
+        "documentation": {}
+    },
+    {
+        "label": "speech",
+        "importPath": "google.cloud",
+        "description": "google.cloud",
+        "isExtraImport": true,
+        "detail": "google.cloud",
+        "documentation": {}
+    },
+    {
+        "label": "pipeline",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "letter",
+        "importPath": "reportlab.lib.pagesizes",
+        "description": "reportlab.lib.pagesizes",
+        "isExtraImport": true,
+        "detail": "reportlab.lib.pagesizes",
+        "documentation": {}
+    },
+    {
+        "label": "letter",
+        "importPath": "reportlab.lib.pagesizes",
+        "description": "reportlab.lib.pagesizes",
+        "isExtraImport": true,
+        "detail": "reportlab.lib.pagesizes",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleDocTemplate",
+        "importPath": "reportlab.platypus",
+        "description": "reportlab.platypus",
+        "isExtraImport": true,
+        "detail": "reportlab.platypus",
+        "documentation": {}
+    },
+    {
+        "label": "Paragraph",
+        "importPath": "reportlab.platypus",
+        "description": "reportlab.platypus",
+        "isExtraImport": true,
+        "detail": "reportlab.platypus",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleDocTemplate",
+        "importPath": "reportlab.platypus",
+        "description": "reportlab.platypus",
+        "isExtraImport": true,
+        "detail": "reportlab.platypus",
+        "documentation": {}
+    },
+    {
+        "label": "Paragraph",
+        "importPath": "reportlab.platypus",
+        "description": "reportlab.platypus",
+        "isExtraImport": true,
+        "detail": "reportlab.platypus",
+        "documentation": {}
+    },
+    {
+        "label": "Spacer",
+        "importPath": "reportlab.platypus",
+        "description": "reportlab.platypus",
+        "isExtraImport": true,
+        "detail": "reportlab.platypus",
+        "documentation": {}
+    },
+    {
+        "label": "getSampleStyleSheet",
+        "importPath": "reportlab.lib.styles",
+        "description": "reportlab.lib.styles",
+        "isExtraImport": true,
+        "detail": "reportlab.lib.styles",
+        "documentation": {}
+    },
+    {
+        "label": "getSampleStyleSheet",
+        "importPath": "reportlab.lib.styles",
+        "description": "reportlab.lib.styles",
+        "isExtraImport": true,
+        "detail": "reportlab.lib.styles",
+        "documentation": {}
+    },
+    {
+        "label": "ParagraphStyle",
+        "importPath": "reportlab.lib.styles",
+        "description": "reportlab.lib.styles",
+        "isExtraImport": true,
+        "detail": "reportlab.lib.styles",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "extract_video_id",
+        "kind": 2,
+        "importPath": "backend.App",
+        "description": "backend.App",
+        "peekOfCode": "def extract_video_id(url):\n    \"\"\"Extracts video ID from various YouTube URL formats.\"\"\"\n    patterns = [\n        r\"youtu\\.be/([0-9A-Za-z_-]{11})\",      # Shortened URL\n        r\"youtube\\.com/watch\\?v=([0-9A-Za-z_-]{11})\",  # Standard URL\n        r\"youtube\\.com/embed/([0-9A-Za-z_-]{11})\",     # Embedded URL\n        r\"youtube\\.com/v/([0-9A-Za-z_-]{11})\"         # Old URL format\n    ]\n    for pattern in patterns:\n        match = re.search(pattern, url)",
+        "detail": "backend.App",
+        "documentation": {}
+    },
+    {
+        "label": "get_youtube_transcript",
+        "kind": 2,
+        "importPath": "backend.App",
+        "description": "backend.App",
+        "peekOfCode": "def get_youtube_transcript(video_url):\n    \"\"\"Extract subtitles from YouTube video.\"\"\"\n    video_id = extract_video_id(video_url)\n    if not video_id:\n        logger.error(\"Invalid YouTube URL\")\n        return None\n    try:\n        transcript = YouTubeTranscriptApi.get_transcript(video_id)\n        return \" \".join([t[\"text\"] for t in transcript])\n    except TranscriptsDisabled:",
+        "detail": "backend.App",
+        "documentation": {}
+    },
+    {
+        "label": "download_audio",
+        "kind": 2,
+        "importPath": "backend.App",
+        "description": "backend.App",
+        "peekOfCode": "def download_audio(video_url):\n    \"\"\"Download YouTube video audio using yt-dlp and verify success.\"\"\"\n    output_filename = \"temp_audio.wav\"\n    ydl_opts = {\n        'format': 'bestaudio/best',\n        'outtmpl': 'temp_audio.%(ext)s',\n        'postprocessors': [{\n            'key': 'FFmpegExtractAudio',\n            'preferredcodec': 'wav',\n            'preferredquality': '192',",
+        "detail": "backend.App",
+        "documentation": {}
+    },
+    {
+        "label": "convert_speech_to_text",
+        "kind": 2,
+        "importPath": "backend.App",
+        "description": "backend.App",
+        "peekOfCode": "def convert_speech_to_text(audio_file):\n    \"\"\"Convert speech to text using Google Speech-to-Text API and debug output.\"\"\"\n    try:\n        client = speech.SpeechClient()\n        with open(audio_file, \"rb\") as audio:\n            content = audio.read()\n        audio = speech.RecognitionAudio(content=content)\n        config = speech.RecognitionConfig(\n            encoding=speech.RecognitionConfig.AudioEncoding.LINEAR16,\n            sample_rate_hertz=16000,  # Ensure correct sample rate",
+        "detail": "backend.App",
+        "documentation": {}
+    },
+    {
+        "label": "get_transcript_or_audio",
+        "kind": 2,
+        "importPath": "backend.App",
+        "description": "backend.App",
+        "peekOfCode": "def get_transcript_or_audio(video_url):\n    \"\"\"Extract subtitles or use audio if subtitles are unavailable.\"\"\"\n    video_id = extract_video_id(video_url)\n    if not video_id:\n        logger.error(\"❌ Invalid YouTube URL\")\n        return None\n    logger.info(\"🔍 Trying to fetch subtitles...\")\n    transcript = get_youtube_transcript(video_url)\n    if transcript:\n        logger.info(\"✅ Subtitles found, using transcript.\")",
+        "detail": "backend.App",
+        "documentation": {}
+    },
+    {
+        "label": "chunk_text",
+        "kind": 2,
+        "importPath": "backend.App",
+        "description": "backend.App",
+        "peekOfCode": "def chunk_text(text, chunk_size=1000):\n    \"\"\"Splits text into smaller chunks to avoid token limits.\"\"\"\n    words = text.split()\n    return [\" \".join(words[i:i+chunk_size]) for i in range(0, len(words), chunk_size)]\ndef summarize_text(text):\n    chunks = [text[i:i+1024] for i in range(0, len(text), 1024)]\n    summaries = []\n    for chunk in chunks:\n        if len(chunk.strip()) == 0:\n            continue  ",
+        "detail": "backend.App",
+        "documentation": {}
+    },
+    {
+        "label": "summarize_text",
+        "kind": 2,
+        "importPath": "backend.App",
+        "description": "backend.App",
+        "peekOfCode": "def summarize_text(text):\n    chunks = [text[i:i+1024] for i in range(0, len(text), 1024)]\n    summaries = []\n    for chunk in chunks:\n        if len(chunk.strip()) == 0:\n            continue  \n        try:\n            summary = summarizer(chunk, max_length=80, min_length=30, do_sample=False)[0]['summary_text']\n            summaries.append(summary)\n        except Exception as e:",
+        "detail": "backend.App",
+        "documentation": {}
+    },
+    {
+        "label": "save_to_database",
+        "kind": 2,
+        "importPath": "backend.App",
+        "description": "backend.App",
+        "peekOfCode": "def save_to_database(video_url, notes):\n    \"\"\"Save summarized notes to PostgreSQL while avoiding duplicates.\"\"\"\n    try:\n        conn = psycopg2.connect(**DB_CONFIG)\n        cursor = conn.cursor()\n        cursor.execute(\"\"\"\n            INSERT INTO notes (video_url, summary) \n            VALUES (%s, %s) \n            ON CONFLICT (video_url) DO UPDATE \n            SET summary = EXCLUDED.summary",
+        "detail": "backend.App",
+        "documentation": {}
+    },
+    {
+        "label": "generate_pdf",
+        "kind": 2,
+        "importPath": "backend.App",
+        "description": "backend.App",
+        "peekOfCode": "def generate_pdf(notes, filename=\"static/output.pdf\"):\n    try:\n        os.makedirs(os.path.dirname(filename), exist_ok=True)\n        doc = SimpleDocTemplate(filename, pagesize=letter)\n        styles = getSampleStyleSheet()\n        heading_style = ParagraphStyle(name=\"Heading\", fontSize=14, spaceAfter=12, bold=True)\n        normal_style = ParagraphStyle(name=\"Normal\", fontSize=12, spaceAfter=10)\n        bullet_style = ParagraphStyle(name=\"Bullet\", fontSize=12, spaceAfter=8, leftIndent=20)\n        story = []\n        sections = notes.split(\"\\n\\n\")",
+        "detail": "backend.App",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "backend.App",
+        "description": "backend.App",
+        "peekOfCode": "def home():\n    return \"Smart Learning Notes API is running!\"\n@app.route(\"/process\", methods=[\"POST\"])\ndef process_video():\n    data = request.json\n    logger.info(f\"Received request: {data}\")  # Debugging\n    video_url = data.get(\"video_url\")\n    if not video_url:\n        return jsonify({\"error\": \"❌ Missing YouTube URL\"}), 400\n    logger.info(\"Fetching transcript...\")",
+        "detail": "backend.App",
+        "documentation": {}
+    },
+    {
+        "label": "process_video",
+        "kind": 2,
+        "importPath": "backend.App",
+        "description": "backend.App",
+        "peekOfCode": "def process_video():\n    data = request.json\n    logger.info(f\"Received request: {data}\")  # Debugging\n    video_url = data.get(\"video_url\")\n    if not video_url:\n        return jsonify({\"error\": \"❌ Missing YouTube URL\"}), 400\n    logger.info(\"Fetching transcript...\")\n    transcript = get_transcript_or_audio(video_url)  # Updated function call\n    if transcript is None:\n        return jsonify({\"error\": \"❌ No subtitles or speech detected.\"}), 400",
+        "detail": "backend.App",
+        "documentation": {}
+    },
+    {
+        "label": "static_files",
+        "kind": 2,
+        "importPath": "backend.App",
+        "description": "backend.App",
+        "peekOfCode": "def static_files(filename):\n    return send_from_directory(\"static\", filename)\nif __name__ == \"__main__\":\n    app.run(host=\"0.0.0.0\", port=5001, debug=True)",
+        "detail": "backend.App",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.App",
+        "description": "backend.App",
+        "peekOfCode": "app = Flask(__name__)\nCORS(app, origins=[\"http://localhost:3000\"])  # Restrict CORS for security\n# Load NLP model\nlogger.info(\"Loading NLP model...\")\ntry:\n    summarizer = pipeline(\"summarization\", model=\"facebook/bart-large-cnn\")\n    logger.info(\"✅ NLP Model loaded successfully!\")\nexcept Exception as e:\n    logger.error(f\"❌ NLP Model failed to load: {e}\")\n# Ensure NLTK is properly set up",
+        "detail": "backend.App",
+        "documentation": {}
+    },
+    {
+        "label": "DB_CONFIG",
+        "kind": 5,
+        "importPath": "backend.App",
+        "description": "backend.App",
+        "peekOfCode": "DB_CONFIG = {\n    \"dbname\": os.getenv(\"DB_NAME\", \"smart_notes\"),\n    \"user\": os.getenv(\"DB_USER\", \"postgres\"),\n    \"password\": os.getenv(\"DB_PASSWORD\", \"root\"),\n    \"host\": os.getenv(\"DB_HOST\", \"localhost\"),\n    \"port\": os.getenv(\"DB_PORT\", \"5432\")\n}\ndef extract_video_id(url):\n    \"\"\"Extracts video ID from various YouTube URL formats.\"\"\"\n    patterns = [",
+        "detail": "backend.App",
+        "documentation": {}
+    }
+]
